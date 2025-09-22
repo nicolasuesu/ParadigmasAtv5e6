@@ -1,0 +1,7 @@
+Java utiliza tipagem estática:
+Vantagens: detecção precoce de erros, melhor performance e maior segurança de tipos.
+Desvantagens: menor flexibilidade e necessidade de declarações mais rígidas.
+
+Python utiliza tipagem dinâmica:
+Vantagens: flexibilidade e código mais conciso.
+Desvantagens: erros aparecem apenas em tempo de execução, o que pode causar falhas inesperadas.

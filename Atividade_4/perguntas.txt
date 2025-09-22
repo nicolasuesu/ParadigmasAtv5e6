@@ -1,0 +1,7 @@
+Array: coleção homogênea de elementos do mesmo tipo, acessados por índice numérico.
+
+Struct/Classe: coleção heterogênea, com atributos de diferentes tipos que representam uma entidade única.
+
+Arrays são adequados para listas homogêneas (ex.: notas de alunos, preços de produtos).
+
+Structs/Classes são adequados para modelar entidades do mundo real (ex.: Livro, Produto, Funcionário).

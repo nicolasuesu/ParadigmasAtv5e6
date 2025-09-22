@@ -1,0 +1,5 @@
+O valor impresso depende do local de definição ou da chamada?
+Do local de definição. Tanto Python quanto JavaScript usam escopo estático (léxico): variáveis não locais são resolvidas de acordo com o ponto do código onde a função foi escrita, não de onde foi chamada.
+
+Qual linguagem se comporta como escopo estático e qual se aproxima de dinâmico?
+Ambas utilizam escopo estático. Se fosse escopo dinâmico, f() herdaria a variável local de g() e o valor impresso seria 20.

@@ -1,0 +1,3 @@
+a é automática: recriada a cada chamada, com tempo de vida limitado à execução da função.
+
+b é estática: alocada na memória estática, inicializada uma única vez e preservada até o fim do programa.
