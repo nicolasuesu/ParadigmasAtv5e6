@@ -1,0 +1,1 @@
+As versões estruturadas (while/for) são mais legíveis, concisas e evitam saltos de controle arbitrários. Isso segue a programação estruturada,e que a seleção, iteração e sequência bastam para expressar qualquer programa. O goto torna-se desnecessário na maioria dos casos. Os slides discutem a controvérsia histórica do goto e as alternativas modernas (while, for, if-else).

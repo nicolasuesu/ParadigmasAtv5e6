@@ -1,0 +1,5 @@
+A ordem das mensagens tende a se intercalar: a goroutine “Corrotina” e a função no fluxo principal avançam “lado a lado”, conforme o escalonamento.
+
+Relação com corrotinas: diferem de subprogramas tradicionais por retomarem de onde pararam, preservando estado local e suportando múltiplos pontos de controle; em Go, goroutines representam uma forma prática de execução concorrente leve. O Sebesta descreve corrotinas como unidades que são retomadas, mantendo variáveis locais entre retomadas.
+
+Múltiplos pontos de entrada, execução cooperativa e preservação de estado; subprogramas tradicionais têm um único ponto de entrada e suspendem o chamador até o retorno.

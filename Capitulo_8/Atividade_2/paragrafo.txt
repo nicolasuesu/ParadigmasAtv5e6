@@ -1,0 +1,1 @@
+Em C, switch facilita a seleção múltipla e pode ficar mais enxuto que múltiplos if-else; em Python, if/elif/else cobre bem o caso e mantém clareza. Switch/case melhora legibilidade frente a cadeias longas de if-else, sendo uma forma de seleção múltipla entre alternativas.

@@ -1,3 +1,4 @@
+package Capitulo_5e6.Atividade_3;
 public class Main {
     public static void main(String[] args) {
         int num = 10;

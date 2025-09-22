@@ -1,0 +1,3 @@
+Diferença observada: na passagem por valor a função recebe uma cópia e não altera a variável do chamador; na passagem por referência a função altera diretamente a célula de memória referida pelo ponteiro.
+
+Em termos de modos de parâmetros (visão geral): IN (valor) não devolve mudança; OUT (resultado) copia de volta ao final; INOUT (valor-resultado ou referência) permite ida/volta de dados; referência é eficiente, mas pode introduzir aliasing/efeitos colaterais.

@@ -1,0 +1,1 @@
+break, continue e return resolvem desvios locais com escopo controlado, substituindo o uso amplo de goto e preservando a estrutura do fluxo.
